@@ -17,5 +17,4 @@ Contacts-React_Router relies on several external libraries and packages, includi
 - React Icons
 - Styled Components
 
-# Demo
-You can see a live demo of the app here: https://your-username.github.io/react-router-tutorial/
+
